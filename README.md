@@ -8,13 +8,13 @@ In this hands-on project, I have built a deep neural network model to detect spa
   <li><b>Dataset Used</b> - MNIST dataset of handwritten digits. <br>
     <h5>Parameters Used</h5>
     <table>
-      <tr><th>Feature</th><th>Values</th></tr>
-      <tr><td>Profile Pic</td><td>1 or 0</td></tr>
-      <tr><td>Full Name</td><td>No. of words</td></tr>
-      <tr><td>Description Length</td></tr>
-      <tr><td>Private</td></tr>
-      <tr><td>Posts</td></tr>
-      <tr><td>Followers</td></tr>
+      <tr><th>Feature</th><th>Values</th><th>Type of value</th></tr>
+      <tr><td>Profile Pic</td><td>Yes or No</td><td>0 or 1</td></tr>
+      <tr><td>Full Name</td><td>No. of words</td><td>Integer</td></tr>
+      <tr><td>Description Length</td><td>No. of words</td><td>Integer</td></tr>
+      <tr><td>Private</td><td>Yes or No</td><td>0 or 1</td></tr>
+      <tr><td>Posts</td><td>No. of posts</td><td>Integer</td></tr>
+      <tr><td>Followers</td><td>No. of followers</td><td>Integer</td></tr>
     </table>
       
   </li>
