@@ -21,6 +21,6 @@ In this hands-on project, I have built a deep neural network model to detect spa
   <li><b>Data Visualisation</b> - Using Seaborn and Matplotlib libraries in Python
   <li><b>Data Preprocessing</b> - Data Normalisation using Scikit Learn and transformed 'Fake' column data to categorical using Keras
   <li><b>Creating model</b> - Sequential Model. Used ReLU activation function for the input and the hidden layers and Softmax activation function for the output layer.</li>
-  <li><b>Training the model</b> - Used 3 epochs for training the model.</li>
+  <li><b>Training the model</b> - Used 20 epochs for training the model.</li>
   <li><b>Evaluation</b> - Getting an accuracy of 96%.</li>
 
