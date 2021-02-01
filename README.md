@@ -18,7 +18,7 @@ In this hands-on project, I have built a deep neural network model to detect spa
     </table>
       
   </li>
-  <li><b> Data preprocessing</b> - Unrolled the array to vector and applied Data Normalisation <i>(x-m)/s</i>.</li>
+  <li><b> Data preprocessing</b> - Checked for null values and applied data normalisation</i>.</li>
   <li><b>Data Visualisation</b> - Using Seaborn and Matplotlib libraries in Python
   <li><b>Creating model</b> - Used ReLU activation function for the input and the hidden layers and Softmax activation function for the output layer.</li>
   <li><b>Training the model</b> - Used 3 epochs for training the model.</li>
