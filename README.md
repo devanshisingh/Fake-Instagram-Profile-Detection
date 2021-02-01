@@ -15,11 +15,11 @@ In this hands-on project, I have built a deep neural network model to detect spa
       <tr><td>Private</td><td>Yes or No</td><td>0 or 1</td></tr>
       <tr><td>Posts</td><td>No. of posts</td><td>Integer</td></tr>
       <tr><td>Followers</td><td>No. of followers</td><td>Integer</td></tr>
-    </table>
-      
+    </table>     
   </li>
-  <li><b> Data preprocessing</b> - Checked for null values and applied data normalisation</i>.</li>
+  <li><b>Exploratory Data Analysis</b> - Checked for null values and analysed the statistical summary of the data</i>.</li>
   <li><b>Data Visualisation</b> - Using Seaborn and Matplotlib libraries in Python
+  <li><b>Data Preprocessing</b> - 
   <li><b>Creating model</b> - Used ReLU activation function for the input and the hidden layers and Softmax activation function for the output layer.</li>
   <li><b>Training the model</b> - Used 3 epochs for training the model.</li>
   <li><b>Evaluation</b> - Getting an accuracy of 96%.</li>
