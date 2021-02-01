@@ -5,7 +5,7 @@ This is a mini-project I completed under Coursera Project Network.
 In this hands-on project, I have built a deep neural network model to detect spam (fake) Instagram accounts.
 
 <ul>
-  <li><b>Dataset Used</b> - MNIST dataset of handwritten digits. <br>
+  <li><b>Dataset Used</b> - Uploaded as insta_train.csv and instra_test.csv <br>
     <h5>Parameters Used</h5>
     <table>
       <tr><th>Feature</th><th>Values</th><th>Type of value</th></tr>
