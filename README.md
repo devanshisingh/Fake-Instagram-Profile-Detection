@@ -11,9 +11,13 @@ In this hands-on project, I have built a deep neural network model to detect spa
       <tr><th>Feature</th><th>Values</th></tr>
       <tr><td>Profile Pic</td><td>1 or 0</td></tr>
       <tr><td>Full Name</td><td>No. of words</td></tr>
+      <tr><td>Description Length</td></tr>
+      <tr><td>Private</td></tr>
+      <tr><td>Posts</td></tr>
+      <tr><td>Followers</td></tr>
     </table>
       
-      </li>
+  </li>
   <li><b> Data preprocessing</b> - Unrolled the array to vector and applied Data Normalisation <i>(x-m)/s</i>.</li>
   <li><b>Data Visualisation</b> - Using Seaborn and Matplotlib libraries in Python
   <li><b>Creating model</b> - Used ReLU activation function for the input and the hidden layers and Softmax activation function for the output layer.</li>
