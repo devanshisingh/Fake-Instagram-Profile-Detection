@@ -11,6 +11,7 @@ In this hands-on project, I have built a deep neural network model to detect spa
       <th><td>Feature</td><td>Values</td></th>
       <tr><td>Profile Pic</td><td>Yes or No</td></tr>
       <tr><td>Full Name</td><td>Something</td>
+    </table>
       
       </li>
   <li><b> Data preprocessing</b> - Unrolled the array to vector and applied Data Normalisation <i>(x-m)/s</i>.</li>
